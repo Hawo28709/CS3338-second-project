@@ -1,0 +1,45 @@
+commit d4103a74e3763790aeda8f6db18a14ccda8d66fb
+Merge: 10413b9 e6c435f
+Author: Hawo28709 <apaname3@calstatela.edu>
+Date:   Thu Sep 4 15:50:03 2025 -0700
+
+    fixed merge conflict with index
+
+commit e6c435ff40e194a6e18843cfa21a53353b1f0b87
+Author: Hawo28709 <apaname3@calstatela.edu>
+Date:   Thu Sep 4 15:47:06 2025 -0700
+
+    Added my favorite game
+
+commit 10413b9070652d9993836ad40a7eb5b88e7ff9c8
+Author: Hawo28709 <apaname3@calstatela.edu>
+Date:   Thu Sep 4 15:44:46 2025 -0700
+
+    Added my favorite food
+
+commit 3c86b519068d12f616c99f145970eb0c7e1df4e7
+Author: Hawo28709 <apaname3@calstatela.edu>
+Date:   Thu Sep 4 15:38:54 2025 -0700
+
+    Created the README file describing this repo assignment
+
+commit 94e451fb62277b55d74cf62e15c36e4489ad7aec
+Merge: 1d2bfc0 4d21df5
+Author: Hawo28709 <apaname3@calstatela.edu>
+Date:   Thu Sep 4 15:28:02 2025 -0700
+
+    Merge pull request #1 from Hawo28709/info-fill
+    
+    Fill in the two blanks into index
+
+commit 4d21df5fc2a44dcea421367956ef105ccee169ae
+Author: Hawo28709 <apaname3@calstatela.edu>
+Date:   Thu Sep 4 15:20:55 2025 -0700
+
+    Fill in the two blanks into index
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
